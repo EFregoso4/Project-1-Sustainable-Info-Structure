@@ -6,4 +6,11 @@ body {
   color: #333;
 }
 
+header {
+  background-color: #C8102E;
+  color: white;
+  padding: 15px;
+  text-align: center;
+}
+
 
