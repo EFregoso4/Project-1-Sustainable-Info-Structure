@@ -1,1 +1,9 @@
+body {
+  font-family: 'Segoe UI, Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #ffffff; /* Will create a white background for the website*/
+  color: #333;
+}
+
 
