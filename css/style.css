@@ -13,4 +13,14 @@ header {
   text-align: center;
 }
 
+nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 10px 0;
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+
 
